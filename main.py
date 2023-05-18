@@ -1,3 +1,4 @@
-from funcs import ADITION
+from funcs import ADITION, SUBTRACTION
 
 ADITION(4, 10)
+SUBTRACTION(10, 4)
